@@ -72,7 +72,7 @@ public class SrvProveedores extends HttpServlet {
             out.println("<body>");
 
             out.println("<table border=1>");
-            out.println("<tr><td>LISTADO DE INTEGRANTES </td></tr> ");
+            out.println("<tr><td>LISTADO DE INTEGRANTESS </td></tr> ");
             out.println("<tr><td>Nombre</td><td>Apellido</td></tr>");
 
             out.println("<tr><td>" + nombre[0] + "</td><td>" + apellido[0] + "</td></tr>");
